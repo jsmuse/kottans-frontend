@@ -53,3 +53,10 @@ Nothing new for me. On courses HTML academy I first learned HTML/CSS. It's perfe
 ![screen](tasks_html_css/tasks_html_css.png)
 ![screen](tasks_html_css/tasks_html_css2.png)
 ![screen](tasks_html_css/tasks_html_css3.png)
+
+## Responsive Web Design
+
+Nothing new for me. This frogs adorable :)
+
+![screen](tasks_responsive/tasks_responsive2.png)
+![screen](tasks_responsive/tasks_responsive.png)
