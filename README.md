@@ -29,3 +29,17 @@ I have experience with terminal on base level. And this course helped me underst
 <h4><a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155">HTTP: The Protocol Every Web Developer Must Know - Part 2</a></h4>
 
 I already have some knowledge and expirience about HTTP.
+
+## Git Collaboration
+
+<h4><a href="https://classroom.udacity.com/courses/ud123/">What is Version Control</a></h4>
+
+It tells in detail why you need a git, where you can use it in real life. Very cool! It’s a pity that I didn’t see this course at the very beginning of my acquaintance with git, he scared me like any newcomer. Nothing new for me.
+
+![screen](task_git_collaboration/task_git_collaboration.png)
+
+<h4><a href="https://classroom.udacity.com/courses/ud456">GitHub & Collaboration</a></h4>
+
+I didn't learn anything new for myself, I use all this in my work.
+
+![screen](task_git_collaboration/task_git_collaboration2.png)
