@@ -43,3 +43,13 @@ It tells in detail why you need a git, where you can use it in real life. Very c
 I didn't learn anything new for myself, I use all this in my work.
 
 ![screen](task_git_collaboration/task_git_collaboration2.png)
+
+<h2>Front-End Basics</h2>
+
+## Intro to HTML and CSS
+
+Nothing new for me. On courses HTML academy I first learned HTML/CSS. It's perfect for beginners.
+
+![screen](tasks_html_css/tasks_html_css.png)
+![screen](tasks_html_css/tasks_html_css2.png)
+![screen](tasks_html_css/tasks_html_css3.png)
