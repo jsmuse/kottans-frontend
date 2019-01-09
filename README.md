@@ -14,3 +14,18 @@ The visualization of the git branches allows me to imagine how it's look like 10
 
 ![screen](Git_and_GitHub/try.github.io.png)
 ![screen](Git_and_GitHub/try.github.io2.png)
+
+## Linux CLI, and HTTP
+
+<h4><a href="https://www.codecademy.com/learn/learn-the-command-line">Learn the Command Line</a></h4>
+
+I have experience with terminal on base level. And this course helped me understand deeply the topic. Now i must think where i can use this cool knowledge to help remove every day routine in work.
+
+![screen](task_linux_cli/task_linux_cli.png)
+
+<br />
+
+<h4><a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177">HTTP: The Protocol Every Web Developer Must Know - Part 1</a></h4>
+<h4><a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155">HTTP: The Protocol Every Web Developer Must Know - Part 2</a></h4>
+
+I already have some knowledge and expirience about HTTP.
