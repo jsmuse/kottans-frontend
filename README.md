@@ -60,3 +60,17 @@ Nothing new for me. This frogs adorable :)
 
 ![screen](tasks_responsive/tasks_responsive2.png)
 ![screen](tasks_responsive/tasks_responsive.png)
+
+## JS Basics
+
+<h4><a href="https://www.udacity.com/course/intro-to-javascript--ud803">Intro to JS</a></h4>
+
+Nothing new for me.
+
+![screen](task_js_basics/task_js_basics2.png)
+
+<h4><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/">freecodecamp Algorithm Scripting Challenges</a></h4>
+
+It was hard! Usually in the work we rarely write complecated logic, preferring the library lodash. But I like it :)
+
+![screen](task_js_basics/task_js_basics.png)
