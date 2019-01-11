@@ -74,3 +74,15 @@ Nothing new for me.
 It was hard! Usually in the work we rarely write complecated logic, preferring the library lodash. But I like it :)
 
 ![screen](task_js_basics/task_js_basics.png)
+
+## DOM
+
+<h4><a href="https://classroom.udacity.com/courses/ud117">JavaScript and the DOM</a></h4>
+
+Nothing new for me.
+
+![screen](task_js_dom/task_js_dom.png)
+
+Tasks was very hard. I use hints and this can help me decide it.
+
+![screen](task_js_dom/task_js_dom2.png)
