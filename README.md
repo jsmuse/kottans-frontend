@@ -86,3 +86,19 @@ Nothing new for me.
 Tasks was very hard. I use hints and this can help me decide it.
 
 ![screen](task_js_dom/task_js_dom2.png)
+
+## Object Oriented JS
+
+<h4><a href="https://classroom.udacity.com/courses/ud015">Object-Oriented JavaScript</a></h4>
+
+This course and theme very intresting for me. And honestly, it was complicated to understand.
+
+![screen](task_js_oop/task_js_oop2.png)
+
+Codewars is awesome. I love it since last year, when I found it :)
+
+<a href="https://www.codewars.com/users/jmuse">My profile on codewars</a>
+
+<a href="https://github.com/jsmuse/codewars">And my kata solutions on github</a>
+
+![screen](task_js_oop/task_js_oop.png)
